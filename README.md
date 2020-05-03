@@ -11,11 +11,11 @@ React-based Google Books Search app that displays books on user searches. Users 
 `Save` button to save the book to the database.<br>
 `View` button to view the book on Google Books.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Deployment 
 
-This App is deployed on Heroku: [Google Books Search](https://google-books-search-vb.herokuapp.com/)
+This App is deployed on Heroku: [Google Books Search](https://gglbk.herokuapp.com/)
 
 ## Technologies used
 
@@ -51,6 +51,3 @@ MVC design pattern: Model, View, Controller.
   }
 ```
 
-## Author
-
-Victoire Baron | [Victoire44](https://github.com/Victoire44)
